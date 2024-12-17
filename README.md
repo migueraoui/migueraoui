@@ -4,7 +4,6 @@ I'm a passionate **Computer Science student** with a strong interest in **AI and
 
 ##  About Me
 -  Currently exploring **Reinforcement Learning**, and **Computer Vision**.
--  Working on **AI solutions for businesses in Algeria**.
 -  Passionate about **clean code practices**, **SOLID principles**, and **design patterns**.
 
 ##  Technologies & Tools
